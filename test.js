@@ -14,5 +14,5 @@
 (function () {
   'use strict';
   console.log(123123)
-  // Your code here...
+  alert(123)
 })();
