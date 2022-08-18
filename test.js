@@ -2,11 +2,13 @@
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  个人测试脚本!
 // @author       You
-// @match        http://*/*
+// @match        http://*www.baidu.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
+// @license MIT
+
 // ==/UserScript==
 
 (function () {
